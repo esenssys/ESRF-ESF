@@ -32,12 +32,11 @@
 
 # Table of Figures
 
-[Figure 1: UI description [4](#_Toc130210507)](#_Toc130210507)
+[Figure 1: UI description [4](#_Toc130211409)](#_Toc130211409)
 
-[Figure 2: Plots
-[6](#_Toc130210508)](file:///Z:\Administration\Controlled%20Documents%20(Πρωτόκολλο)\ESS-239_ESF_Evaluation_Software_Manual\ESS-239_ESF_Evaluation_Software_Manual_v5.docx#_Toc130210508)
+[Figure 2: Plots [6](#_Toc130211599)](#_Toc130211599)
 
-[Figure 3: Measurement log file [7](#_Toc130210509)](#_Toc130210509)
+[Figure 3: Measurement log file [7](#_Toc130211411)](#_Toc130211411)
 
 **  
 **
@@ -59,7 +58,7 @@ To install the ESRF-ESF Evaluation Software:
 
 <img src="./media/image1.png" style="width:6.5067in;height:5.49653in" />
 
-<span id="_Toc130210507" class="anchor"></span>Figure : UI description
+<span id="_Toc130211409" class="anchor"></span>Figure 1: UI description
 
 | **\#** | **Description**             |
 |--------|-----------------------------|
@@ -107,8 +106,10 @@ Data Acquisition* button.
 
 Pressing the button will open the *Graph Window*
 
-<img src="./media/image2.emf"
-style="width:6.76042in;height:5.78125in" />
+<img src="./media/image2.png"
+style="width:6.75694in;height:5.77778in" />
+
+<span id="_Toc130211599" class="anchor"></span>Figure : Plots
 
 There’s a separate graph for each quantity. By default, data for all
 connected sensors is displayed but the user can select/deselect any of
@@ -143,7 +144,7 @@ of precision. An example is shown below:
 <img src="./media/image3.png" style="width:4.49021in;height:1.72941in"
 alt="Text Description automatically generated" />
 
-<span id="_Toc130210509" class="anchor"></span>Figure : Measurement log
+<span id="_Toc130211411" class="anchor"></span>Figure 3: Measurement log
 file
 
 <u>6. Evaluation Software Version</u>
